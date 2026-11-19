@@ -1,0 +1,1 @@
+{ "name": "Salesforce DX", "image": "://microsoft.com", "postCreateCommand": "npm install -g @salesforce/cli", "customizations": { "vscode": { "extensions": [ "salesforce.salesforcedx-vscode" ] } } }
